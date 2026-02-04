@@ -1,0 +1,2 @@
+# Requires: future-entropy
+# (Not available on PyPI)
